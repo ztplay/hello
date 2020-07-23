@@ -1,4 +1,4 @@
-vmess=qvcif8.mitsuha-node.com:59237, method=chacha20-ietf-poly1305, password=5abbaf84-6dd9-45d5-8a60-74a1258fd294, obfs=over-tls, obfs-host=qvcif8.mitsuha-node.com, tls-verification=true, fast-open=false, udp-relay=false, tag=🇭🇰中港IPLC(02)
+vmess=qvcif8.mitsuha-node.com:59237, method=chacha20-ietf-poly1305, password=5abbaf84-6dd9-45d5-8a60-74a1258fd294, obfs=over-tls, obfs-host=qvcif8.mitsuha-node.com, tls-verification=true, fast-open=false, udp-relay=false, tag=🇭🇰中港IPLC(01)
 
 vmess=xbhtzu.mitsuha-node.com:59237, method=chacha20-ietf-poly1305, password=5abbaf84-6dd9-45d5-8a60-74a1258fd294, obfs=over-tls, obfs-host=xbhtzu.mitsuha-node.com, tls-verification=true, fast-open=false, udp-relay=false, tag=🇭🇰中港IPLC(02)
 
