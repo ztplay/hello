@@ -1,1 +1,2 @@
-vmess=zhant.ml:443, method=chacha20-ietf-poly1305, password=ee078e11-25c9-4e44-9b9d-2a7253168b5f, obfs=wss, obfs-host=zhant.ml, obfs-uri=/d3981192/, tls-verification=true, fast-open=false, udp-relay=false, tag=🇨🇳香港  谷歌云
+vmess = cloudflare.com:443, method=chacha20-ietf-poly1305, password=d91fe72d-b0ea-46f0-b294-3604f7fbd01e, obfs=wss, obfs-host=royal-dust-2d29.zhantuo.workers.dev, obfs-uri=Pqn2A4kqC7Ea3LW5, tag=ibm
+vmess = zhant.ml:443, method=chacha20-ietf-poly1305, password=ee078e11-25c9-4e44-9b9d-2a7253168b5f, obfs=wss, obfs-host=zhant.ml, obfs-uri=/d3981192/, tag=谷歌云
