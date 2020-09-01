@@ -1,2 +1,3 @@
-vmess = cloudflare.com:443, method=chacha20-ietf-poly1305, password=d91fe72d-b0ea-46f0-b294-3604f7fbd01e, obfs=wss, obfs-host=royal-dust-2d29.zhantuo.workers.dev, obfs-uri=/Pqn2A4kqC7Ea3LW5, tag=ibm
+vmess = cloudflare.com:443, method=chacha20-ietf-poly1305, password=d91fe72d-b0ea-46f0-b294-3604f7fbd01e, obfs=wss, obfs-host=royal-dust-2d29.zhantuo.workers.dev, obfs-uri=/Pqn2A4kqC7Ea3LW5, tag=ibm反代
+vmess = vmess22.us-south.cf.appdomain.cloud:443, method=chacha20-ietf-poly1305, password=d91fe72d-b0ea-46f0-b294-3604f7fbd01e, obfs=wss, obfs-host=vmess22.us-south.cf.appdomain.cloud, obfs-uri=/Pqn2A4kqC7Ea3LW5, tag=ibm
 vmess = zhant.ml:443, method=chacha20-ietf-poly1305, password=ee078e11-25c9-4e44-9b9d-2a7253168b5f, obfs=wss, obfs-host=zhant.ml, obfs-uri=/d3981192/, tag=谷歌云
